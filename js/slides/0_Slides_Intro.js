@@ -67,7 +67,7 @@ SLIDES.push({
 
 		// Button
 		self.add({
-			id:"loading_button", type:"Button", x:382, y:410,
+			id:"loading_button", type:"Button", x:310, y:410, size: "long",
 			text_id:"loading",
 			active:false
 		});
