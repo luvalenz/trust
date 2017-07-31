@@ -112,7 +112,7 @@ SLIDES.push({
 		// Circular Wordbox
 		self.add({
 			id:"intro_text", type:"TextBox",
-			x:130, y:10, width:700, height:500, align:"center", size:"85%",
+			x:130, y:10, width:700, height:500, align:"center",
 			text_id:"intro"
 		});
 
